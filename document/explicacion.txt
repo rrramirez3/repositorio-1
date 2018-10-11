@@ -1,0 +1,3 @@
+ejercicio 1: al ingresar un numero el programa nos debe determinar si el numero ingresado corresponde a numeros positivos, negativos o es el 0
+
+ejercicio 2: el programa consiste en transformar un numero decimal a binario para lo cual al ejecutar el programa este realiza la division suceciva del numero hasta que el cociente llegue a ser 1, luego nos imprime en ceros y 1 el numero ingresado inicialmente.
